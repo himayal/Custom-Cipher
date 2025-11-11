@@ -3,11 +3,6 @@
 Custom Cipher – Affine + Rail-Fence
 This project implements a two-stage classical encryption system combining the Affine Cipher and the Rail-Fence Cipher, along with basic cryptanalysis (known-plaintext attack).
 
-Project Files               File	Description
-Custom_Cipher.ipynb	        Encryption and decryption of text using Affine + Rail-Fence
-Demo_Custom_Cipher.ipynb	  Interactive demo for encrypt/decrypt
-Attack_Custom_Cipher.ipynb  Performs known-plaintext attack on the cipher
-
 How It Works:
 Encryption Process
 Step 1 → Affine Cipher: converts each letter using formula E(x) = (a*x + b) mod 26
