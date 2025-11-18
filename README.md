@@ -1,4 +1,4 @@
-# Custum-Cipher
+# CustOm-Cipher
 
 Custom Cipher – Affine + Rail-Fence
 This project implements a two-stage classical encryption system combining the Affine Cipher and the Rail-Fence Cipher, along with basic cryptanalysis (known-plaintext attack).
